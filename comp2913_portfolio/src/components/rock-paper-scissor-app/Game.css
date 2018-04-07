@@ -1,0 +1,13 @@
+.thumbnail_img {
+    display: inline-block;
+    width : 200px;
+    height: 200px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    border: 2px solid gray;
+}
+
+#message {
+    color: blueviolet;
+}

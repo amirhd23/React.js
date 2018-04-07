@@ -1,0 +1,22 @@
+[
+        {
+            "id" : 1,
+            "name" : "Vancouver bc"
+        },
+        {
+            "id" : 2,
+            "name" : "Toronto"
+        },
+        {
+            "id" : 3,
+            "name" : "New York"
+        },
+        {
+            "id" : 4,
+            "name" : "Seattle"
+        },
+        {
+            "id" : 5,
+            "name" : "California"
+        }
+]

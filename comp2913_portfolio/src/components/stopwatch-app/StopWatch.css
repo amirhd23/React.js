@@ -1,0 +1,22 @@
+@font-face{
+    font-family:'digital-clock-font';
+    src: url('./assets/digital-7-italic.ttf');
+   }
+
+.digital {
+    font-family: 'digital-clock-font';
+    font-size: 2em;
+    background-color: #9bcc78;
+    display: inline-block;
+    width : 80%;
+}
+
+.fixed-width {
+    display: inline-block;
+    width: 20%;
+    margin-top: 10px;
+}
+
+#start-button{
+    margin-right: 20px;
+}
